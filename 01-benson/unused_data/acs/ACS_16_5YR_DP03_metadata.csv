@@ -1,0 +1,551 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_VC03,Estimate; EMPLOYMENT STATUS - Population 16 years and over
+HC02_VC03,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over
+HC03_VC03,Percent; EMPLOYMENT STATUS - Population 16 years and over
+HC04_VC03,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over
+HC01_VC04,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+HC02_VC04,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+HC03_VC04,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+HC04_VC04,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+HC01_VC05,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+HC02_VC05,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+HC03_VC05,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+HC04_VC05,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+HC01_VC06,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+HC02_VC06,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+HC03_VC06,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+HC04_VC06,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+HC01_VC07,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC02_VC07,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC03_VC07,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC04_VC07,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC01_VC08,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+HC02_VC08,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+HC03_VC08,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+HC04_VC08,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+HC01_VC09,Estimate; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+HC02_VC09,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+HC03_VC09,Percent; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+HC04_VC09,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+HC01_VC11,Estimate; EMPLOYMENT STATUS - Civilian labor force
+HC02_VC11,Margin of Error; EMPLOYMENT STATUS - Civilian labor force
+HC03_VC11,Percent; EMPLOYMENT STATUS - Civilian labor force
+HC04_VC11,Percent Margin of Error; EMPLOYMENT STATUS - Civilian labor force
+HC01_VC12,Estimate; EMPLOYMENT STATUS - Civilian labor force - Unemployment Rate
+HC02_VC12,Margin of Error; EMPLOYMENT STATUS - Civilian labor force - Unemployment Rate
+HC03_VC12,Percent; EMPLOYMENT STATUS - Civilian labor force - Unemployment Rate
+HC04_VC12,Percent Margin of Error; EMPLOYMENT STATUS - Civilian labor force - Unemployment Rate
+HC01_VC14,Estimate; EMPLOYMENT STATUS - Females 16 years and over
+HC02_VC14,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over
+HC03_VC14,Percent; EMPLOYMENT STATUS - Females 16 years and over
+HC04_VC14,Percent Margin of Error; EMPLOYMENT STATUS - Females 16 years and over
+HC01_VC15,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+HC02_VC15,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+HC03_VC15,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+HC04_VC15,Percent Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+HC01_VC16,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+HC02_VC16,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+HC03_VC16,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+HC04_VC16,Percent Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+HC01_VC17,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+HC02_VC17,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+HC03_VC17,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+HC04_VC17,Percent Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+HC01_VC19,Estimate; EMPLOYMENT STATUS - Own children of the householder under 6 years
+HC02_VC19,Margin of Error; EMPLOYMENT STATUS - Own children of the householder under 6 years
+HC03_VC19,Percent; EMPLOYMENT STATUS - Own children of the householder under 6 years
+HC04_VC19,Percent Margin of Error; EMPLOYMENT STATUS - Own children of the householder under 6 years
+HC01_VC20,Estimate; EMPLOYMENT STATUS - Own children of the householder under 6 years - All parents in family in labor force
+HC02_VC20,Margin of Error; EMPLOYMENT STATUS - Own children of the householder under 6 years - All parents in family in labor force
+HC03_VC20,Percent; EMPLOYMENT STATUS - Own children of the householder under 6 years - All parents in family in labor force
+HC04_VC20,Percent Margin of Error; EMPLOYMENT STATUS - Own children of the householder under 6 years - All parents in family in labor force
+HC01_VC22,Estimate; EMPLOYMENT STATUS - Own children of the householder 6 to 17 years
+HC02_VC22,Margin of Error; EMPLOYMENT STATUS - Own children of the householder 6 to 17 years
+HC03_VC22,Percent; EMPLOYMENT STATUS - Own children of the householder 6 to 17 years
+HC04_VC22,Percent Margin of Error; EMPLOYMENT STATUS - Own children of the householder 6 to 17 years
+HC01_VC23,Estimate; EMPLOYMENT STATUS - Own children of the householder 6 to 17 years - All parents in family in labor force
+HC02_VC23,Margin of Error; EMPLOYMENT STATUS - Own children of the householder 6 to 17 years - All parents in family in labor force
+HC03_VC23,Percent; EMPLOYMENT STATUS - Own children of the householder 6 to 17 years - All parents in family in labor force
+HC04_VC23,Percent Margin of Error; EMPLOYMENT STATUS - Own children of the householder 6 to 17 years - All parents in family in labor force
+HC01_VC27,Estimate; COMMUTING TO WORK - Workers 16 years and over
+HC02_VC27,Margin of Error; COMMUTING TO WORK - Workers 16 years and over
+HC03_VC27,Percent; COMMUTING TO WORK - Workers 16 years and over
+HC04_VC27,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over
+HC01_VC28,"Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+HC02_VC28,"Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+HC03_VC28,"Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+HC04_VC28,"Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+HC01_VC29,"Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+HC02_VC29,"Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+HC03_VC29,"Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+HC04_VC29,"Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+HC01_VC30,Estimate; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC02_VC30,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC03_VC30,Percent; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC04_VC30,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC01_VC31,Estimate; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC02_VC31,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC03_VC31,Percent; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC04_VC31,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC01_VC32,Estimate; COMMUTING TO WORK - Workers 16 years and over - Other means
+HC02_VC32,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Other means
+HC03_VC32,Percent; COMMUTING TO WORK - Workers 16 years and over - Other means
+HC04_VC32,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Other means
+HC01_VC33,Estimate; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC02_VC33,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC03_VC33,Percent; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC04_VC33,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC01_VC36,Estimate; COMMUTING TO WORK - Mean travel time to work (minutes)
+HC02_VC36,Margin of Error; COMMUTING TO WORK - Mean travel time to work (minutes)
+HC03_VC36,Percent; COMMUTING TO WORK - Mean travel time to work (minutes)
+HC04_VC36,Percent Margin of Error; COMMUTING TO WORK - Mean travel time to work (minutes)
+HC01_VC40,Estimate; OCCUPATION - Civilian employed population 16 years and over
+HC02_VC40,Margin of Error; OCCUPATION - Civilian employed population 16 years and over
+HC03_VC40,Percent; OCCUPATION - Civilian employed population 16 years and over
+HC04_VC40,Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over
+HC01_VC41,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+HC02_VC41,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+HC03_VC41,"Percent; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+HC04_VC41,"Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+HC01_VC42,Estimate; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+HC02_VC42,Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+HC03_VC42,Percent; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+HC04_VC42,Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+HC01_VC43,Estimate; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+HC02_VC43,Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+HC03_VC43,Percent; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+HC04_VC43,Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+HC01_VC44,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+HC02_VC44,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+HC03_VC44,"Percent; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+HC04_VC44,"Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+HC01_VC45,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+HC02_VC45,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+HC03_VC45,"Percent; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+HC04_VC45,"Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+HC01_VC49,Estimate; INDUSTRY - Civilian employed population 16 years and over
+HC02_VC49,Margin of Error; INDUSTRY - Civilian employed population 16 years and over
+HC03_VC49,Percent; INDUSTRY - Civilian employed population 16 years and over
+HC04_VC49,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over
+HC01_VC50,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+HC02_VC50,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+HC03_VC50,"Percent; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+HC04_VC50,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+HC01_VC51,Estimate; INDUSTRY - Civilian employed population 16 years and over - Construction
+HC02_VC51,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Construction
+HC03_VC51,Percent; INDUSTRY - Civilian employed population 16 years and over - Construction
+HC04_VC51,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Construction
+HC01_VC52,Estimate; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+HC02_VC52,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+HC03_VC52,Percent; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+HC04_VC52,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+HC01_VC53,Estimate; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+HC02_VC53,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+HC03_VC53,Percent; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+HC04_VC53,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+HC01_VC54,Estimate; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+HC02_VC54,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+HC03_VC54,Percent; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+HC04_VC54,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+HC01_VC55,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+HC02_VC55,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+HC03_VC55,"Percent; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+HC04_VC55,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+HC01_VC56,Estimate; INDUSTRY - Civilian employed population 16 years and over - Information
+HC02_VC56,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Information
+HC03_VC56,Percent; INDUSTRY - Civilian employed population 16 years and over - Information
+HC04_VC56,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Information
+HC01_VC57,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+HC02_VC57,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+HC03_VC57,"Percent; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+HC04_VC57,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+HC01_VC58,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+HC02_VC58,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+HC03_VC58,"Percent; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+HC04_VC58,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+HC01_VC59,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+HC02_VC59,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+HC03_VC59,"Percent; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+HC04_VC59,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+HC01_VC60,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+HC02_VC60,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+HC03_VC60,"Percent; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+HC04_VC60,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+HC01_VC61,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+HC02_VC61,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+HC03_VC61,"Percent; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+HC04_VC61,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+HC01_VC62,Estimate; INDUSTRY - Civilian employed population 16 years and over - Public administration
+HC02_VC62,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Public administration
+HC03_VC62,Percent; INDUSTRY - Civilian employed population 16 years and over - Public administration
+HC04_VC62,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Public administration
+HC01_VC66,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over
+HC02_VC66,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over
+HC03_VC66,Percent; CLASS OF WORKER - Civilian employed population 16 years and over
+HC04_VC66,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over
+HC01_VC67,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+HC02_VC67,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+HC03_VC67,Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+HC04_VC67,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+HC01_VC68,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+HC02_VC68,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+HC03_VC68,Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+HC04_VC68,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+HC01_VC69,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+HC02_VC69,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+HC03_VC69,Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+HC04_VC69,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+HC01_VC70,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+HC02_VC70,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+HC03_VC70,Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+HC04_VC70,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+HC01_VC74,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households
+HC02_VC74,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households
+HC03_VC74,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households
+HC04_VC74,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households
+HC01_VC75,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+HC02_VC75,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+HC03_VC75,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+HC04_VC75,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+HC01_VC76,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+HC02_VC76,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+HC03_VC76,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+HC04_VC76,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+HC01_VC77,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+HC02_VC77,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+HC03_VC77,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+HC04_VC77,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+HC01_VC78,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+HC02_VC78,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+HC03_VC78,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+HC04_VC78,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+HC01_VC79,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+HC02_VC79,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+HC03_VC79,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+HC04_VC79,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+HC01_VC80,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+HC02_VC80,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+HC03_VC80,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+HC04_VC80,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+HC01_VC81,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+HC02_VC81,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+HC03_VC81,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+HC04_VC81,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+HC01_VC82,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+HC02_VC82,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+HC03_VC82,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+HC04_VC82,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+HC01_VC83,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+HC02_VC83,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+HC03_VC83,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+HC04_VC83,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+HC01_VC84,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC02_VC84,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC03_VC84,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC04_VC84,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC01_VC85,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC02_VC85,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC03_VC85,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC04_VC85,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC01_VC86,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC02_VC86,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC03_VC86,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC04_VC86,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC01_VC89,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings
+HC02_VC89,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings
+HC03_VC89,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings
+HC04_VC89,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings
+HC01_VC90,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+HC02_VC90,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+HC03_VC90,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+HC04_VC90,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+HC01_VC91,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security
+HC02_VC91,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security
+HC03_VC91,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security
+HC04_VC91,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security
+HC01_VC92,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+HC02_VC92,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+HC03_VC92,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+HC04_VC92,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+HC01_VC93,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income
+HC02_VC93,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income
+HC03_VC93,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income
+HC04_VC93,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income
+HC01_VC94,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+HC02_VC94,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+HC03_VC94,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+HC04_VC94,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+HC01_VC97,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+HC02_VC97,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+HC03_VC97,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+HC04_VC97,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+HC01_VC98,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC02_VC98,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC03_VC98,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC04_VC98,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC01_VC99,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+HC02_VC99,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+HC03_VC99,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+HC04_VC99,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+HC01_VC100,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+HC02_VC100,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+HC03_VC100,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+HC04_VC100,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+HC01_VC101,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months
+HC02_VC101,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months
+HC03_VC101,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months
+HC04_VC101,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months
+HC01_VC103,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families
+HC02_VC103,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families
+HC03_VC103,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families
+HC04_VC103,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families
+HC01_VC104,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+HC02_VC104,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+HC03_VC104,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+HC04_VC104,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+HC01_VC105,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+HC02_VC105,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+HC03_VC105,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+HC04_VC105,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+HC01_VC106,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+HC02_VC106,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+HC03_VC106,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+HC04_VC106,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+HC01_VC107,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+HC02_VC107,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+HC03_VC107,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+HC04_VC107,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+HC01_VC108,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+HC02_VC108,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+HC03_VC108,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+HC04_VC108,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+HC01_VC109,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+HC02_VC109,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+HC03_VC109,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+HC04_VC109,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+HC01_VC110,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+HC02_VC110,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+HC03_VC110,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+HC04_VC110,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+HC01_VC111,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+HC02_VC111,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+HC03_VC111,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+HC04_VC111,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+HC01_VC112,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+HC02_VC112,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+HC03_VC112,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+HC04_VC112,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+HC01_VC113,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+HC02_VC113,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+HC03_VC113,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+HC04_VC113,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+HC01_VC114,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+HC02_VC114,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+HC03_VC114,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+HC04_VC114,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+HC01_VC115,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+HC02_VC115,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+HC03_VC115,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+HC04_VC115,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+HC01_VC118,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+HC02_VC118,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+HC03_VC118,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+HC04_VC118,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+HC01_VC120,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+HC02_VC120,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+HC03_VC120,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+HC04_VC120,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+HC01_VC121,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+HC02_VC121,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+HC03_VC121,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+HC04_VC121,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+HC01_VC122,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+HC02_VC122,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+HC03_VC122,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+HC04_VC122,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+HC01_VC124,Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+HC02_VC124,Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+HC03_VC124,Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+HC04_VC124,Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+HC01_VC125,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+HC02_VC125,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+HC03_VC125,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+HC04_VC125,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+HC01_VC126,"Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+HC02_VC126,"Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+HC03_VC126,"Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+HC04_VC126,"Percent Margin of Error; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+HC01_VC130,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+HC02_VC130,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+HC03_VC130,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+HC04_VC130,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+HC01_VC131,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+HC02_VC131,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+HC03_VC131,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+HC04_VC131,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+HC01_VC132,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+HC02_VC132,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+HC03_VC132,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+HC04_VC132,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+HC01_VC133,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+HC02_VC133,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+HC03_VC133,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+HC04_VC133,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+HC01_VC134,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+HC02_VC134,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+HC03_VC134,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+HC04_VC134,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+HC01_VC137,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years
+HC02_VC137,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years
+HC03_VC137,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years
+HC04_VC137,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years
+HC01_VC138,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage
+HC02_VC138,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage
+HC03_VC138,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage
+HC04_VC138,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage
+HC01_VC141,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years
+HC02_VC141,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years
+HC03_VC141,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years
+HC04_VC141,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years
+HC01_VC142,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force:
+HC02_VC142,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force:
+HC03_VC142,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force:
+HC04_VC142,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force:
+HC01_VC143,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed:
+HC02_VC143,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed:
+HC03_VC143,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed:
+HC04_VC143,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed:
+HC01_VC144,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage
+HC02_VC144,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage
+HC03_VC144,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage
+HC04_VC144,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage
+HC01_VC145,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance
+HC02_VC145,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance
+HC03_VC145,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance
+HC04_VC145,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance
+HC01_VC146,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage
+HC02_VC146,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage
+HC03_VC146,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage
+HC04_VC146,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage
+HC01_VC147,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage
+HC02_VC147,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage
+HC03_VC147,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage
+HC04_VC147,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage
+HC01_VC148,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed:
+HC02_VC148,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed:
+HC03_VC148,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed:
+HC04_VC148,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed:
+HC01_VC149,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage
+HC02_VC149,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage
+HC03_VC149,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage
+HC04_VC149,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage
+HC01_VC150,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance
+HC02_VC150,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance
+HC03_VC150,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance
+HC04_VC150,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance
+HC01_VC151,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage
+HC02_VC151,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage
+HC03_VC151,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage
+HC04_VC151,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage
+HC01_VC152,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage
+HC02_VC152,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage
+HC03_VC152,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage
+HC04_VC152,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage
+HC01_VC153,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force:
+HC02_VC153,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force:
+HC03_VC153,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force:
+HC04_VC153,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force:
+HC01_VC154,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage
+HC02_VC154,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage
+HC03_VC154,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage
+HC04_VC154,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage
+HC01_VC155,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance
+HC02_VC155,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance
+HC03_VC155,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance
+HC04_VC155,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance
+HC01_VC156,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage
+HC02_VC156,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage
+HC03_VC156,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage
+HC04_VC156,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage
+HC01_VC157,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage
+HC02_VC157,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage
+HC03_VC157,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage
+HC04_VC157,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage
+HC01_VC161,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+HC02_VC161,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+HC03_VC161,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+HC04_VC161,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+HC01_VC162,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children of the householder under 18 years
+HC02_VC162,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children of the householder under 18 years
+HC03_VC162,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children of the householder under 18 years
+HC04_VC162,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children of the householder under 18 years
+HC01_VC163,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+HC02_VC163,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+HC03_VC163,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+HC04_VC163,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+HC01_VC164,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+HC02_VC164,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+HC03_VC164,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+HC04_VC164,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+HC01_VC165,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children of the householder under 18 years
+HC02_VC165,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children of the householder under 18 years
+HC03_VC165,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children of the householder under 18 years
+HC04_VC165,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children of the householder under 18 years
+HC01_VC166,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+HC02_VC166,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+HC03_VC166,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+HC04_VC166,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+HC01_VC167,"Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+HC02_VC167,"Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+HC03_VC167,"Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+HC04_VC167,"Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+HC01_VC168,"Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children of the householder under 18 years"
+HC02_VC168,"Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children of the householder under 18 years"
+HC03_VC168,"Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children of the householder under 18 years"
+HC04_VC168,"Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children of the householder under 18 years"
+HC01_VC169,"Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children of the householder under 18 years - With related children of the householder under 5 years only"
+HC02_VC169,"Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children of the householder under 18 years - With related children of the householder under 5 years only"
+HC03_VC169,"Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children of the householder under 18 years - With related children of the householder under 5 years only"
+HC04_VC169,"Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children of the householder under 18 years - With related children of the householder under 5 years only"
+HC01_VC171,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+HC02_VC171,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+HC03_VC171,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+HC04_VC171,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+HC01_VC172,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years
+HC02_VC172,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years
+HC03_VC172,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years
+HC04_VC172,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years
+HC01_VC173,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years
+HC02_VC173,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years
+HC03_VC173,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years
+HC04_VC173,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years
+HC01_VC174,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder under 5 years
+HC02_VC174,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder under 5 years
+HC03_VC174,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder under 5 years
+HC04_VC174,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder under 5 years
+HC01_VC175,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder 5 to 17 years
+HC02_VC175,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder 5 to 17 years
+HC03_VC175,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder 5 to 17 years
+HC04_VC175,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder 5 to 17 years
+HC01_VC176,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over
+HC02_VC176,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over
+HC03_VC176,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over
+HC04_VC176,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over
+HC01_VC177,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over - 18 to 64 years
+HC02_VC177,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over - 18 to 64 years
+HC03_VC177,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over - 18 to 64 years
+HC04_VC177,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over - 18 to 64 years
+HC01_VC178,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over - 65 years and over
+HC02_VC178,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over - 65 years and over
+HC03_VC178,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over - 65 years and over
+HC04_VC178,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people - 18 years and over - 65 years and over
+HC01_VC179,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - People in families
+HC02_VC179,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - People in families
+HC03_VC179,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - People in families
+HC04_VC179,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - People in families
+HC01_VC180,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Unrelated individuals 15 years and over
+HC02_VC180,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Unrelated individuals 15 years and over
+HC03_VC180,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Unrelated individuals 15 years and over
+HC04_VC180,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Unrelated individuals 15 years and over

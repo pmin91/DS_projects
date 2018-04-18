@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>NYC Geodatabase</dc:title>
+<dc:title>nyc_gdb</dc:title>
+<dc:creator>Frank Donnelly</dc:creator>
+<dc:creator>Geospatial Data Librarian</dc:creator>
+<dc:subject xsi:type="dcterms:LCSH">Geographic Information Systems</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Geodatabases</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">New York City--Geospatial data</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">United States--Census</dc:subject>
+<dc:description>The NYC Geodatabase (nyc_gdb) is a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City. It contains geographic features and data compiled from several public sources. All of the features were transformed to share a common coordinate reference system (CRS) that is appropriate for the area: NAD 83 NY State Plane Long Island (feet). Subsets of large features like water, greenspace, and public facilities were created and Census geographies like tracts, ZCTAs, and PUMAs were geoprocessed to create land-based boundaries. Census data from the 2010 Census, American Community Survey (ACS), and ZIP Code Business Patterns are stored in tables that can be easily related to geographic features. Transit and public facility point data were gathered from several city agencies and transformed into spatial data that can be used for reference or analysis for measuring distance, drawing buffers, or counting features within areas.
+
+The database contains many foundational map layers and data that can be readily used, but was also constructed so users could build on that foundation and extend it for their own projects. All of the boundaries are based on the 2010 Census, which allows users to easily add additional layers from the census TIGER shapefiles or to extend the study area beyond the five boroughs. The database also serves as an educational tool for introducing spatial databases and SQL.
+
+The dataset is appropriate for thematic and reference mapping at a city and borough level and for thematic mapping at a sub-borough level. While it can be used for creating detailed reference maps at a sub-borough level, it is not the ideal choice for this purpose, given the degree of generalization in the TIGER Line files (in terms of the detail of the line work for the coast line and the number of water and landmark features selected for inclusion). Users will have to judge for themselves based on their intended purpose.</dc:description>
+<dc:publisher>Baruch College, CUNY</dc:publisher>
+<dcterms:issued xsi:type="dcterms:W3CDTF">2018-01</dcterms:issued>
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+<dc:format>sqlite</dc:format>
+<dc:format>msaccess</dc:format>
+<dc:identifier>https://www.baruch.cuny.edu/confluence/display/geoportal/NYC+Geodatabase</dc:identifier>
+<dc:identifier>nyc_gdb_jan2018.sqlite</dc:identifier>
+<dc:identifier>nyc_gdb_jan2018.mdb</dc:identifier>
+<dc:source>US Census TIGER / Line Shapefiles</dc:source>
+<dc:source>2010 Census Centers of Population</dc:source>
+<dc:source>NYC Dept City Planning Facilities Database (FacDB)</dc:source>
+<dc:source>MTA NYC Transit</dc:source>
+<dc:source>Port Authority NY NJ</dc:source>
+<dc:source>2010 Census</dc:source>
+<dc:source>2012-2016 American Community Survey</dc:source>
+<dc:source>2015 ZIP Code Business Patterns</dc:source>
+<dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
+<dcterms:spatial xsi:type="dcterms:Box">name=New York City;northlimit=272752.873521;eastlimit=1067309.746197;southlimit=120053.504637;westlimit=913090.689878;units=ft;projection=NAD83 / New York Long Island (ftUS)</dcterms:spatial>
+<dcterms:license>Attribution-NonCommercial-ShareAlike CC BY-NC-SA</dcterms:license>
+<dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+<dcterms:accrualperiodicity>biannual</dcterms:accrualperiodicity>
+<dcterms:accrualpolicy>active</dcterms:accrualpolicy>
+
+</metadata>
