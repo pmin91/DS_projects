@@ -15,3 +15,7 @@ Data Source: Youtube, Google Trends, OMDB (IMDB, Metacritic, Rotten Tomatoes), B
 #### 03 - Mcnulty (Supervised Learning)  
 Using supervised learning algorithms to predict the occurance of West Nile Virus in Chicago based on climate, location, and spray data.  
 Data Source: Kaggle
+
+#### 04 - TBD (Unsupervised Learning)  
+
+#### 05 - TBD (Deep Learning)  
