@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Aspect-Based Opinion Mining Demonstration</title>
+    <link rel="stylesheet" type="text/css" href="static/Style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- <script scr="{{url_for('static',filename='js/form.js')}}"></script> -->
+  </head>
+  <body>
+    <div id="container">
+      <div id="header">
+        <h1>Aspect-Based Opinion Mining Demo</h1>
+      </div>
+      <div id="Description">
+        <p>
+          <!-- <form>
+            <input type="text" name="search" placeholder="Your sentence here..." id="SentenceInput">
+          </form> -->
+          <form name="myform" onSubmit="return handleClick()">
+            <input name="Submit"  type="submit" value="Search" >
+            <input type="text" id="myVal" placeholder="Your sentence here&hellip;">
+          </form>
+        </p>
+      </div>
+      <div id="content">
+        <div id="aspects">
+          <h2>Aspects:</h2>
+          <ul></ul>
+        </div>
+        <div id="aspect_terms">
+          <h2>Aspect terms:</h2>
+          <ul></ul>
+        </div>
+      </div>
+    </div>
+      <script>
+ 
+        function handleClick(event){
+            console.log(document.getElementById("myVal").value)
+            get_sentiment(document.getElementById("myVal").value)
+            return false;
+        }
+
+        // function draw(val){
+        //     d3.select("body").select("Prediction").append("li");
+        //     dataset.push(val);
+        //     var p = d3.select("body").selectAll("li")
+        //     .data(dataset)
+        //     .text(function(d,i){return i + ": " + d;})
+        // }
+
+        </script>
+    
+
+<!-- 
+    <script src = "static/dropdown_options.js"></script>
+    <script>
+        // populate drop-downs
+        d3.select("#Year")
+          .selectAll("option")
+          .data(year_options)
+          .enter()
+          .append("option")
+          .attr("value", function(option) { return option.value; })
+          .text(function(option) { return option.text; });
+
+        d3.select("#Month")
+          .selectAll("option")
+          .data(Month_options)
+          .enter()
+          .append("option")
+          .attr("value", function(option) { return option.value; })
+          .text(function(option) { return option.text; });
+
+        d3.select("#Day")
+          .selectAll("option")
+          .data(Day_options)
+          .enter()
+          .append("option")
+          .attr("value", function(option) { return option.value; })
+          .text(function(option) { return option.text; });
+
+        d3.select("#Species")
+          .selectAll("option")
+          .data(Species_options)
+          .enter()
+          .append("option")
+          .attr("value", function(option) { return option.value; })
+          .text(function(option) { return option.text; });
+        
+        // initial dataset on load
+        var selected_year = "2007";
+        var selected_month = "5";
+        var selected_day = "1";
+        var selected_species = "CULEX PIPIENS/RESTUANS";
+
+        // Dropdown dataset selection
+        var dropYear = d3.select("#Year");
+        var dropMonth = d3.select("#Month");
+        var dropDay = d3.select("#Day");
+        var dropSpecies = d3.select("#Species");
+
+        // Upon dropdown, trigger a new prediction
+        dropYear.on("change", function() {
+            selected_year = d3.event.target.value;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+        dropMonth.on("change", function() {
+            selected_month = d3.event.target.value;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+        dropDay.on("change", function() {
+            selected_day = d3.event.target.value;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+        dropSpecies.on("change", function() {
+            selected_species = d3.event.target.value;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+
+    </script> -->
+
+<script>
+
+        //Function to post data and get probability from the model using ajax 
+        function get_sentiment(sentence){
+          var myJSON = JSON.stringify({"sentence": sentence})
+          $.ajax({
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            url: "/process",
+            dataType: "json",
+            async: true,
+            data: myJSON,
+            success: function (data) {
+              var sentiment = data
+              document.getElementById('aspects').innerHTML = sentiment;
+            },
+            error: function () {
+              alert('error saving json')
+            }
+          })
+        }
+
+
+</script>
+
+
+
+ 
+
+  </body>
+</html>
