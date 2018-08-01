@@ -1,7 +1,9 @@
 # Aspect-Based Opinion Mining
 
 ## Notebook organization
-All of the working files in the code folder are in jupyter notebooks, although it can easily be converted into python scripts. 
+All of the working files in the code folder are in jupyter notebooks, although it can easily be converted into python scripts.  
+** Note that you may need to pip install several python libraries, such as spaCy, neuralcoref, gensim, etc. **
+
 ### Code
 
 #### 01 - Building Naive Bayes model
