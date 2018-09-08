@@ -7,7 +7,7 @@ from catboost import CatBoostClassifier, Pool, cv
 #---------- MODEL IN MEMORY ----------------#
 
 # Connect to postgres sql server and load dataframes
-cnx = create_engine('postgresql://ubuntu:ubuntu@18.236.147.215:5432/weather')
+# cnx = create_engine('postgresql://ubuntu:ubuntu@##.###.###.###:####/weather')
 weather = pd.read_sql_query('''SELECT * FROM weather''',cnx,index_col="id")
 trap_stations = pd.read_sql_query('''SELECT * FROM traps_stations''',cnx,index_col="id")
 
