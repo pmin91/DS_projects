@@ -2,7 +2,7 @@
   
 This is my project folder for the metis bootcamp (Spring 2018). You will find 5 main projects in this folder:  
 
-####  01 - Benson (EDA)  
+####  01 - MTA Turnstile (Exploratory Data Analysis)  
 EDA on MTA Turnstile data of NY to find optimal stations to target donors and attendees for a tech event.  
 *Tools: Pandas, Google geocode API*  
 Data Source: NY MTA 
@@ -18,7 +18,7 @@ Utilized a gradient boosted decision tree to predict the occurrence of a West Ni
 Hosted a Flask app for model prediction and an interactive visualization using Tableau.  
 *Tools: PostgreSQL, CatBoost, Tableau, Flask, D3.js, AWS*
 
-#### 04 - Abstract Based Opinion Mining (NLP)  
+#### 04 - Aspect Based Opinion Mining (NLP)  
 [Medium Blogpost](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)  
 Extracted customers' opinions across different aspects of a restaurant (i.e. food, service, ambience, and price) to derive actionable insights for restaurant owners and to allow Yelp users to compare similar restaurants.  
 *Tools: scikit-learn, MongoDB, word2vec, spaCy, AWS, plotly*

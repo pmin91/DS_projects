@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>West Nile Virus App</title>
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="static/Style.css">
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <div id="header">
+        <h1>West Nile Virus Predictor</h1>
+      </div>
+      <div id="Description">
+        <p>
+          West Nile Virus Predictor uses the CatBoostClassifier model
+          that was trained on the mosquito traps data provided by the 
+          city of Chicago, and the weather data provided by NOAA, both 
+          of which are available on Kaggle. This model is based solely on 
+          climate and location, so by choosing the dates provided, you are
+          providing the climate feature for the specific date. Choosing any
+          location on this map will locate the nearest trap to predict the
+          probability of the occurance of West Nile virus.
+        </p>
+      </div>
+      <div id="content">
+        <div id="map">
+        </div>
+        <div id="DateDropdown">
+            <h2>Select a date</h2>
+            <select id="Year"></select>
+            <select id="Month"></select>
+            <select id="Day"></select>
+            <select id="Species"></select>
+            <h2>probability of WNV being found:</h2>
+            <div id="Prediction"></div>
+        </div>
+      </div>
+      <div id="latmoved"></div>
+      <div id="longmoved"></div>
+
+      <!-- Tableau Dashboard #1-->
+      <div class='TableauChicago' id='viz1526337376228' style='position: relative'>
+        <h2>
+          Visualization of the Mosquitoes Caught (2007 ~ 2013)
+        </h2>
+        <noscript>
+          <a href='#'>
+            <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CF&#47;CFF3KMKFP&#47;1_rss.png' style='border: none' />
+          </a>
+        </noscript>
+        <object class='tableauViz'  style='display:none;'>
+          <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+          <param name='embed_code_version' value='3' />
+          <param name='path' value='shared&#47;CFF3KMKFP' />
+          <param name='toolbar' value='yes' />
+          <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CF&#47;CFF3KMKFP&#47;1.png' />
+          <param name='animate_transition' value='yes' />
+          <param name='display_static_image' value='yes' />
+          <param name='display_spinner' value='yes' />
+          <param name='display_overlay' value='yes' />
+          <param name='display_count' value='yes' />
+          <param name='filter' value='publish=yes' />
+        </object>
+      </div>
+
+      <!-- Tableau Dashboard #2-->
+      <div class='TableauSpecies' id='viz1526424667022' style='position: relative'>
+        <noscript>
+          <a href='#'>
+            <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WN&#47;WNVPROJ2&#47;Dashboard1&#47;1_rss.png' style='border: none' />
+          </a>
+        </noscript>
+        <object class='tableauViz'  style='display:none;'>
+          <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+          <param name='embed_code_version' value='3' /> 
+          <param name='site_root' value='' />
+          <param name='name' value='WNVPROJ2&#47;Dashboard1' />
+          <param name='tabs' value='no' />
+          <param name='toolbar' value='yes' />
+          <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WN&#47;WNVPROJ2&#47;Dashboard1&#47;1.png' /> 
+          <param name='animate_transition' value='yes' />
+          <param name='display_static_image' value='yes' />
+          <param name='display_spinner' value='yes' />
+          <param name='display_overlay' value='yes' />
+          <param name='display_count' value='yes' />
+          <param name='filter' value='publish=yes' />
+        </object>
+      </div>                
+      <div id="footer">
+          2018 Peter Min<br>github.com/pmin91
+      </div>
+
+    <!-- Script for tableau dashboard #1-->
+    <script type='text/javascript'>                    
+      var divElement = document.getElementById('viz1526337376228');                    
+      var vizElement = divElement.getElementsByTagName('object')[0];                    
+      vizElement.style.minWidth='420px';
+      vizElement.style.maxWidth='650px';
+      vizElement.style.width='100%';
+      vizElement.style.minHeight='587px';
+      vizElement.style.maxHeight='887px';
+      vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+      var scriptElement = document.createElement('script');                    
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    </script>
+
+    <!-- Script for tableau dashboard #2-->
+    <script type='text/javascript'>                    
+      var divElement = document.getElementById('viz1526424667022');                    
+      var vizElement = divElement.getElementsByTagName('object')[0];                    
+      vizElement.style.minWidth='420px';
+      vizElement.style.maxWidth='650px';
+      vizElement.style.width='100%';
+      vizElement.style.minHeight='587px';
+      vizElement.style.maxHeight='887px';
+      vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+      var scriptElement = document.createElement('script');                    
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+    </script>
+
+    
+
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8Cc8inxSD2QhfYL_p9o9zxxtQ_ECA5Hw&callback=initMap"
+    async defer></script>
+    <script src="https://d3js.org/d3.v4.min.js" integrity="sha384-1EOYqz4UgZkewWm70NbT1JBUXSQpOIS2AaJy6/evZH+lXOrt9ITSJbFctNeyBoIJ" crossorigin="anonymous"></script>
+    <script>
+        var map;
+        var clicklat = 41.8671;
+        var clicklng = -87.6542;
+        var clicklatlng;
+        var marker;
+        
+
+        function initMap() {
+            var latitude = 41.8671;
+            var longitude = -87.6542;
+            var myLatLng = {lat: latitude, lng: longitude};
+            map = new google.maps.Map(document.getElementById("map"), {
+            center: myLatLng,
+            zoom: 10,
+            zoomControl: false,
+            scrollwheel: false,
+            scaleControl: false,
+            draggable: false,
+            });
+
+        function placeMarker(location) {
+          if ( marker ) {
+            marker.setPosition(location);
+          } else {
+            marker = new google.maps.Marker({
+              position: location,
+              map: map,
+              title: event.latLng.lat()+', '+event.latLng.lng()
+            });
+          }
+        }
+
+        // Update lat/long variables of div when anywhere in the map is clicked    
+        google.maps.event.addListener(map,'click',function(event) {                
+            clicklat =  event.latLng.lat();
+            clicklng =  event.latLng.lng();
+            clicklatlng =  event.latLng;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+        
+        // Update lat/long value of div when you move the mouse over the map
+        google.maps.event.addListener(map,'mousemove',function(event) {
+            document.getElementById('latmoved').innerHTML = "lattitude: " + event.latLng.lat();
+            document.getElementById('longmoved').innerHTML = "longitude: " +event.latLng.lng();
+        });
+
+        // Create new marker on single click event on the map
+        google.maps.event.addListener(map,'click',function(event) {
+            placeMarker(event.latLng);
+            });                
+        
+        // // Create new marker on single click event on the map
+        // google.maps.event.addListener(map,'click',function(event) {
+        // var marker = new google.maps.Marker({
+        //     position: event.latLng, 
+        //     map: map, 
+        //     title: event.latLng.lat()+', '+event.latLng.lng()
+        // });    
+        
+
+        }
+    </script>
+    <script src = "static/dropdown_options.js"></script>
+    <script>
+        // populate drop-downs
+        d3.select("#Year")
+          .selectAll("option")
+          .data(year_options)
+          .enter()
+          .append("option")
+          .attr("value", function(option) { return option.value; })
+          .text(function(option) { return option.text; });
+
+        d3.select("#Month")
+          .selectAll("option")
+          .data(Month_options)
+          .enter()
+          .append("option")
+          .attr("value", function(option) { return option.value; })
+          .text(function(option) { return option.text; });
+
+        d3.select("#Day")
+          .selectAll("option")
+          .data(Day_options)
+          .enter()
+          .append("option")
+          .attr("value", function(option) { return option.value; })
+          .text(function(option) { return option.text; });
+
+        d3.select("#Species")
+          .selectAll("option")
+          .data(Species_options)
+          .enter()
+          .append("option")
+          .attr("value", function(option) { return option.value; })
+          .text(function(option) { return option.text; });
+        
+        // initial dataset on load
+        var selected_year = "2007";
+        var selected_month = "5";
+        var selected_day = "1";
+        var selected_species = "CULEX PIPIENS/RESTUANS";
+
+        // Dropdown dataset selection
+        var dropYear = d3.select("#Year");
+        var dropMonth = d3.select("#Month");
+        var dropDay = d3.select("#Day");
+        var dropSpecies = d3.select("#Species");
+
+        // Upon dropdown, trigger a new prediction
+        dropYear.on("change", function() {
+            selected_year = d3.event.target.value;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+        dropMonth.on("change", function() {
+            selected_month = d3.event.target.value;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+        dropDay.on("change", function() {
+            selected_day = d3.event.target.value;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+        dropSpecies.on("change", function() {
+            selected_species = d3.event.target.value;
+            getAndDrawChance(selected_year,selected_month,selected_day,selected_species,clicklat,clicklng)
+        });
+
+    </script>
+
+<script>
+
+        //Function to post data and get probability from the model using ajax 
+        function getAndDrawChance(syear, smonth, sday, sspecies, slat, slng){
+          var params = {year: syear, month: smonth, day: sday, species: sspecies,
+           lattitude: slat, longitude: slng}
+          var myJSON = JSON.stringify(params)
+          $.ajax({
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            url: "/prob",
+            dataType: "json",
+            async: true,
+            data: myJSON,
+            success: function (data) {
+              var prob = data.toString() + "%"
+              document.getElementById('Prediction').innerHTML = prob;
+            },
+            error: function () {
+              alert('error saving json')
+            }
+          })
+        }
+
+
+</script>
+
+
+
+ 
+
+  </body>
+</html>

@@ -1,0 +1,63 @@
+#header{
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+
+#container {
+    background-color: white;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Description{
+    padding: 5px;
+}
+#content{
+    padding: 10px;
+    max-width: 80vw;
+    display: flex;
+}
+
+#latmoved{
+    position: relative;
+    /* float: left; */
+}
+
+#longmoved{
+    position: relative;
+    /* float: right; */
+}
+#map{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    float: left;
+}
+
+
+#DateDropdown{
+    margin-left:100px;
+    height: 500px;
+    float: right;
+    text-align: center;
+    min-width: 385px;
+}
+
+#tableauChicago{
+    width: 200px;
+    text-align:center;
+    padding: 10px;
+    float: left;
+}
+#tableauSpecies{
+    width: 600px;
+    text-align:center;
+    /* width: 50%; */
+    padding: 10px;
+    float: right;
+}
+#footer {
+    clear: both;
+    text-align: right;
+}
