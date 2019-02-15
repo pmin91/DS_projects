@@ -25,5 +25,5 @@ Extracted customers' opinions across different aspects of a restaurant (i.e. foo
 
 #### 05 - Uber Demand Forecasting (Time-series)  
 [Tableau Dashboard](https://public.tableau.com/views/Uberfinaldashboard/Dashboard1?:embed=y&:display_count=yes)  
-Forecasted hourly demand for Uber across 140 locations in NYC using statistical models and deep learning approaches to recommend better locations for drivers and reduce surge pricing events.  
+Forecasted hourly demand for Uber across 140 locations in NYC using statistical models and RNN approaches to recommend better locations for drivers and reduce surge pricing events.  
 *Tools: Keras (GRU, LSTM), Tableau, Facebook Prophet*
