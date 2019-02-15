@@ -23,7 +23,7 @@ Hosted a Flask app for model prediction and an interactive visualization using T
 Extracted customers' opinions across different aspects of a restaurant (i.e. food, service, ambience, and price) to derive actionable insights for restaurant owners and to allow Yelp users to compare similar restaurants.  
 *Tools: scikit-learn, MongoDB, word2vec, spaCy, AWS, plotly*
 
-#### 05 - Uber Demand Forecasting (Deep Learning)  
+#### 05 - Uber Demand Forecasting (Time-series)  
 [Tableau Dashboard](https://public.tableau.com/views/Uberfinaldashboard/Dashboard1?:embed=y&:display_count=yes)  
 Forecasted hourly demand for Uber across 140 locations in NYC using statistical models and deep learning approaches to recommend better locations for drivers and reduce surge pricing events.  
 *Tools: Keras (GRU, LSTM), Tableau, Facebook Prophet*
