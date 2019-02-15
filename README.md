@@ -7,13 +7,13 @@ EDA on MTA Turnstile data of NY to find optimal stations to target donors and at
 *Tools: Pandas, Google geocode API*  
 Data Source: NY MTA 
   
-#### 02 - Movie Opening Gross Prediction  
+#### 02 - Movie Opening Gross Prediction (Regression)  
 [Medium Blogpost](https://medium.com/@pmin91/how-i-tried-to-predicted-the-opening-gross-for-the-avengers-infinity-war-using-data-science-3fd2beb9512d)  
 Using Linear Regression to predict the Box Office on opening  weekend.  
 *Tools: Web scraping with BeautifulSoup & Selenium, various APIs, Scikit Learn, Statsmodels.*  
 Data Source: Youtube, Google Trends, OMDB (IMDB, Metacritic, Rotten Tomatoes), BoxOfficeMojo, Bureau of Labor Statistics
 
-#### 03 - West Nile Virus Prediction in Chicago  
+#### 03 - West Nile Virus Prediction in Chicago (Classification)  
 Utilized a gradient boosted decision tree to predict the occurrence of a West Nile virus in Chicago using climate & geolocation data. 
 Hosted a Flask app for model prediction and an interactive visualization using Tableau.  
 *Tools: PostgreSQL, CatBoost, Tableau, Flask, D3.js, AWS*
